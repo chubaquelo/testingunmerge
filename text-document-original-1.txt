@@ -1,0 +1,3 @@
+first line added from branch1-test
+This is a line added from branch2-test
+3 Line added from branch3-test (that it's a branch2 branch)
